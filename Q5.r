@@ -1,4 +1,4 @@
-Write an R program to find Sum, Mean and Product of a Vector
+#Write an R program to find Sum, Mean and Product of a Vector
 
 x = c(10, 20, 30)
 

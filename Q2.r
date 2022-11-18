@@ -1,4 +1,4 @@
-#Write an R program to sort a Vector in ascending and descending order.
+##Write an R program to sort a Vector in ascending and descending order.
 
 x = c(50, 10, 33, 12, 19, 36)
 

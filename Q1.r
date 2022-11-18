@@ -1,4 +1,4 @@
-Write an R program to find the maximum and the minimum value of a given vector.
+#Write an R program to find the maximum and the minimum value of a given vector.
 
 x = c(50, 10, 33, 12, 19, 36)
 

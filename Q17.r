@@ -1,3 +1,5 @@
+#Write an R Program to calculate Decimal into binary of a given number.
+
 convert_to_binary <- function(n) {
 
   if(n > 1) {

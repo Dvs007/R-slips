@@ -1,5 +1,10 @@
 
- 
+#Write a script in R to create a list of cities and perform the following 
+1) Give names to the elements in the list.
+2) Add an element at the end of the list.
+3) Remove the last element.
+4) Update the 3rd Element
+
 print(" 1. Give names to the elements in the list.")
 list_data <- list(c("Red","Green","Black"),list("Python", "PHP", "Java"))
 print(list_data)

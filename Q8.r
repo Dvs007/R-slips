@@ -1,4 +1,4 @@
-Write an R program to create a data frame using two given vectors and display the duplicated elements and unique rows of the said data frame
+#Write an R program to create a data frame using two given vectors and display the duplicated elements and unique rows of the said data frame
 
 a = c(10, 20, 10, 10, 40, 50, 20, 30)
 
